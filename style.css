@@ -1,0 +1,27 @@
+
+h1,p{
+	color: #216663;
+	
+	text-align: center;
+	border: 5px solid rgb(255,176,178,0.6) ;
+
+
+}
+body{
+	background-image: url(haha.jpg);
+	background-size: cover;
+	cursor: pointer;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext{
+	border: 5px dashed green;
+	color: white;
+
+}
+#div1{
+	background-color: rgba(0,0,255,0.6);
+}
